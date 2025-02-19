@@ -92,14 +92,13 @@
 ### Languages
 
 
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter&logoColor=02569B)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
 ### Technologies
