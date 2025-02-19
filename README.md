@@ -99,6 +99,8 @@
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter&logoColor=02569B)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
 ### Technologies
 
