@@ -18,7 +18,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-<!--                 「 working on <a href="https://dcc.gov.kh/home">AKK MOBILE</a> 」 -->
+                「 working on <a href="#">AKK MOBILE</a> 」
 <!--                 <br>
                 「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
                 <br> -->
@@ -53,17 +53,17 @@
     <p align="center">Find me on</p>
  <p align="center">
     <!-- Mail -->
-    <a href="mailto:monyakkhara69@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:connect.monyakkhara69@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
     <!-- Twitter -->
-    <a href="https://twitter.com/itskdey" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a>
+<!--     <a href="https://twitter.com/itskdey" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a> -->
     <!-- Instagram -->
-    <a href="https://www.instagram.com/itskdey/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"></a>
+<!--     <a href="https://www.instagram.com/itskdey/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"></a> -->
     <!-- Facebook -->
-    <a href="https://www.facebook.com/itskdey/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/ah.xiang.33865/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
     <!-- Youtube -->
-    <a href="https://www.youtube.com/channel/UCcLED5up-1-RgYkOYdc_ZUw" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"></a>
+<!--     <a href="https://www.youtube.com/channel/UCcLED5up-1-RgYkOYdc_ZUw" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"></a> -->
     <!-- Thread -->
-    <a href="https://www.threads.net/@itskdey" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white"></a>
+<!--     <a href="https://www.threads.net/@itskdey" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white"></a> -->
 </p>
 
 
