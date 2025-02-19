@@ -18,7 +18,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 working on <a href="https://dcc.gov.kh/home">AKK MOBILE</a> 」
+<!--                 「 working on <a href="https://dcc.gov.kh/home">AKK MOBILE</a> 」 -->
 <!--                 <br>
                 「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
                 <br> -->
@@ -53,7 +53,7 @@
     <p align="center">Find me on</p>
  <p align="center">
     <!-- Mail -->
-    <a href="mailto:connect.meanphekadey069@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:monyakkhara69@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
     <!-- Twitter -->
     <a href="https://twitter.com/itskdey" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a>
     <!-- Instagram -->
