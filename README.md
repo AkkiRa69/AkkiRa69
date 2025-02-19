@@ -18,7 +18,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 working on <a href="#">AKK MOBILE</a> 」
+                「 working on <a href="#">Developing App</a> 」
 <!--                 <br>
                 「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
                 <br> -->
