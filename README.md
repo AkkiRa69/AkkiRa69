@@ -93,7 +93,7 @@
 
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
+![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter&logoColor=02569B)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
